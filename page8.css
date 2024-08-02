@@ -1,0 +1,444 @@
+.group-parent {
+    width: 186px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+  }
+  .frame-nav {
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 0 2px 9px rgba(0, 0, 0, 0.14);
+    width: 1440px;
+    height: 115px;
+    font-size: var(--font-size-mini);
+  }
+  .frame-child13 {
+    width: 91px;
+    height: 86.77px;
+  }
+  .frame-child13,
+.plans-pricing {
+  position: relative;
+}
+.sale_logo{
+    position: absolute;
+    top: -6px;
+    left: 277px;
+}
+
+.create-parent,
+.group-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 45px;
+}
+.group-parent2 {
+  position: absolute;
+  top: calc(50% - 43.5px);
+  left: 25px;
+  justify-content: flex-start;
+  gap: 35px;
+}
+.frame-lottieplayer {
+  position: absolute;
+  top: 9px;
+  left: 330px;
+  width: 73px;
+  height: 37.68px;
+}
+
+  .desktop-1,
+  .frame-nav {
+    background-color: var(--color-white);
+    text-align: left;
+    color: var(--color-darkslategray);
+    font-family: var(--font-poppins);
+  }
+  .frame-nav {
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 0 2px 9px rgba(0, 0, 0, 0.14);
+    width: 1440px;
+    height: 115px;
+    font-size: var(--font-size-mini);
+  }
+  .create_design{
+    height: 47px;
+    width: 157px;
+    border: 1px solid white;
+    border-radius: 86px;
+    font-size: 16px;
+    color: white;
+    font-family: poppins;
+    background-color: blueviolet;
+    position: absolute;
+    left: 1178px;
+    top: 31px;
+    cursor: pointer;
+  }
+  .icons_group{
+    position: absolute;
+    top: 34px;
+    left: 1060px;
+  }
+
+  .profile{
+    width: 367px;
+    height: 794px;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    position: absolute;
+    left: -70px;
+    top: 118px;
+    border-radius: 80px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.14);
+    font-family: poppins;
+  }
+  .profile_name{
+    margin-left: 96px;
+    margin-top: 25px;
+}
+.profile_sections{
+    width: 250px;
+    height: 43px;
+    border: 1px solid white;
+    background-color: #f4f4f4;
+    font-size: 18px;
+    color: rgb(59, 59, 59);
+border-radius: 9px;
+margin-left: 100px;
+margin-top: 30px;
+font-weight: lighter;
+cursor: pointer;
+padding-right: 75px;
+}
+
+.profile_sections:hover{
+    background-color: #bfbebe;
+}
+#Home{
+    padding-right: 80px;
+}
+#Trash{
+    margin-top: 92px;
+}
+#Temp{
+    padding-right: 53px;
+}
+#Projects{
+    padding-right: 62px;
+}
+#Learm{
+    padding-right: 85px;
+}
+#Trash{
+    padding-right: 87px;
+}
+.P-icons1{
+    position: absolute;
+    left: 120px;
+    top: 205px;
+}
+.P-icons2{
+    position: absolute;
+    left: 120px;
+    top: 278px;
+}
+.P-icons3{
+    position: absolute;
+    left: 120px;
+    top: 350px;
+}
+.P-icons4{
+    position: absolute;
+    left: 120px;
+    top: 423px;
+}
+.P-icons5{
+    position: absolute;
+    left: 120px;
+    top: 496px;
+}
+.P-icons6{
+    position: absolute;
+    left: 120px;
+    top: 632px;
+}
+.P-icons7{
+    position: absolute;
+    left: 112px;
+    top: 576px;
+}
+
+.a1{
+  position: absolute;
+  top: 138px;
+    left: 323px;
+}
+
+.search{
+  width: 366px;
+  height: 60px;
+  border-radius: 70px;
+  background-color: white;
+  border: 1px solid white;
+    position: absolute;
+    top: 344px;
+    left: 675px;
+    cursor: pointer;
+}
+.searchlogo{
+  position: absolute;
+  top: 360px;
+    left: 698px;
+}
+.search_type{
+  position: absolute;
+  left: 748px;
+    top: 364px;
+    border-color: transparent;
+}
+
+.b{
+  position: absolute;
+  top: 500px;
+    left: 346px;
+    width: 1064px;
+    height: 358px;
+    border: 1px solid rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+
+.buttons{
+  display: inline-block;
+  
+}
+.button2{
+color: white;
+font-size: 20px;
+border-radius: 28px;
+border: 1px solid rgb(255, 255, 255);
+background-color: #881be2;
+padding: 8px 24px 8px 24px;
+position: absolute;
+left: 427px;
+top: 815px;
+cursor:pointer;
+
+}
+.button3{
+  color: white;
+  font-size: 20px;
+  border-radius: 28px;
+  border: 1px solid rgb(255, 255, 255);
+  background-color:#f89b29;
+  padding: 8px 24px 8px 24px;
+  position: absolute;
+  left: 686px;
+   top: 815px;
+   cursor:pointer;
+
+  }
+.button4{
+      color: white;
+      font-size: 20px;
+      border-radius: 28px;
+      border: 1px solid rgb(255, 255, 255);
+      background-color: #ff0f7b;
+      padding: 8px 24px 8px 24px;
+      position: absolute;
+      left: 955px;
+      top: 815px;
+      cursor:pointer;
+
+      }
+.button5{
+          color: white;
+          font-size: 20px;
+          border-radius: 28px;
+          border: 1px solid rgb(255, 255, 255);
+          background-color: #881be2;
+          padding: 8px 24px 8px 24px;
+          position: absolute;
+          left: 1231px;
+          top: 815px;
+          cursor:pointer;
+
+          }
+
+.T1{
+position: absolute;
+left: 4px;
+top: 91px;
+}
+.T2{
+position: absolute;
+left: 302px;
+    top: 91px;
+} 
+.T3{
+position: absolute;
+left: 888px;
+top: 593px;
+} 
+.T4{
+position: absolute;
+left: 1191px;
+top: 593px;
+}
+.c{
+  width: 1064px;
+    height: 1011px;
+    border: 1px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 919px;
+    left: 347px;
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.File1{
+  position: absolute;
+  top: 66px;
+  left: 0px;
+}
+.File2{
+  position: absolute;
+  top: 986px;
+  left: 718px;
+}
+.File3{
+  position: absolute;
+  top: 986px;
+  left: 1089px;
+}
+.File4{
+  position: absolute;
+  top: 1320px;
+  left: 348px;
+}
+.File5{
+  position: absolute;
+  top: 1320px;
+  left: 715px;
+}
+.File6{
+  position: absolute;
+  top: 1320px;
+    left: 1089px;
+}
+
+.File7{
+  position: absolute;
+  top: 1656px;
+  left: 348px;
+}
+.File8{
+  position: absolute;
+  top: 1656px;
+    left: 715px;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  max-width: 1324px;
+  margin-left: 93px;
+}
+
+
+.footer{
+  background: linear-gradient(to right,#ff0f7b, #f89b29);
+  font-family: poppins;
+  padding: 70px 0;
+  width: 1440px;
+  position: absolute;
+  top: 2210px;
+}
+
+.row{
+  display: flex;
+  flex-wrap:wrap;
+}
+.footer-col{
+  padding: 0 15px;
+  width: 25%;
+}
+ul{
+  list-style: none;
+  color: white;
+  font-size: 20px;
+
+}
+.footer-col h4{
+
+  color: white;
+  font-size: 32px;
+  font-weight: bolder;
+}
+
+#S li{
+  margin-left: 60px;
+  margin-top: 23px;
+}
+#Q li{
+  margin-left: 10px;
+  margin-top: 15px;
+}
+#P li{
+  margin-left: 140px;
+  margin-top: 45px;
+}
+
+.socialLogo{
+  position: absolute;
+  top: 136px;
+  left: 107px;
+}
+
+.paymentLogo{
+  position: absolute;
+  top: 144px;
+  left: 769px;
+}
+.ChatBox{
+  position: absolute;
+  top: 108px;
+  left: 1101px;
+}
+.footerlogo{
+  position: absolute;
+  top: -129px;
+    left: 587px;
+}
+.plans-pricing{
+  cursor: pointer;
+  background-color: white;
+  border: none;
+  font-size: 15px;
+}
+#plan_sale{
+  border: 2px solid rgb(251, 28, 147);
+    background-color: white;
+    border-radius: 22px;
+    padding: 8px 15px 8px 15px;
+}
+
+   
